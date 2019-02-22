@@ -1,0 +1,12 @@
+{
+  "versions": [
+  ],
+  "captcha_solver": [
+    {
+      "key": "",
+      "secret": "",
+      "service": ""
+    }
+  ],
+  "server": [{"limit": 1337}]
+}
