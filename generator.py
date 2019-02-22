@@ -35,7 +35,7 @@ def on_exit():
         json.dump(database, d, indent=4)
     save_account_wrapper()
     print("Saved database! Exiting...")
-    os.system("pkill -f whats_my_name???.py")  # not proper
+    os.system("pkill -f whats_my_name???.exe")  # not proper
 
 
 class Exit_Watchdog:
