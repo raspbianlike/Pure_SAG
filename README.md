@@ -1,2 +1,2 @@
 # Pure_SAG
-Pure - A fully features Steam account generator
+Pure - A fully featured Steam account generator
